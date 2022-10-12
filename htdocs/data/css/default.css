@@ -1,0 +1,47 @@
+/*
+Default.css
+provides default theme for main website.
+Author: J. Aurandt. 
+This file is open source
+*/
+body{
+    background-color: black;
+    width: 1080px;
+    margin: auto;
+}
+
+header, footer{
+    height: 55px;
+    width: 1080px;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+hr{
+    color: white;
+}
+
+a{
+    padding: 3%;
+    color: white;
+    background-color: brown;
+    text-align: center;
+    text-decoration: none;
+    text-emphasis: none;
+    border: 4px solid white;
+    border-radius: 10px;
+    display: inline-block;
+    height: auto;
+}
